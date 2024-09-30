@@ -1,0 +1,61 @@
+{
+  "interestingprojects": [
+    {
+      "person": "Saveups - savings Website",
+      "link": "https://saveups.netlify.app",
+      "note": "Check out the stunning smooth UI."
+    },
+    {
+      "person": "Relasto - Real Estate website",
+      "link": "https://relasto.vercel.app",
+      "note": "Checkout this frontend real estate website with smooth UI."
+    },
+    {
+      "person": "Elshalom Stores - Ecommerce website",
+      "link": "https://elshalomstores.com.ng",
+      "note": "A full-stack Ecommerce website"
+    },
+    {
+      "person": "Kicksciti - Food website",
+      "link": "https://kicksciti.com",
+      "note": "Check out this beautiful smooth UI website"
+    },
+    {
+      "person": "Foodios - Food website",
+      "link": "https://foodios.vercel.app",
+      "note": "Food vendoing website"
+    }
+  ],
+
+  "links": [
+    {
+      "person": "Upskill courses",
+      "link": "https://upskillcourses.com",
+      "note": "Best in class creative assets."
+    },
+    {
+      "person": "codewithmosh",
+      "link": "https://codewithmosh.com",
+      "note": "Best in class creative assets."
+    }
+  ],
+
+  "social": [
+    {
+      "url": "https://www.instagram.com/kingcodes7/",
+      "icon": "instagram"
+    },
+    {
+      "url": "https://wa.me/message/36KHVXZH7QTJA1",
+      "icon": "whatsapp"
+    },
+    {
+      "url": "https://www.linkedin.com/in/emmanuel-o-aaaaaa296/",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://github.com/EmmanuelM0147",
+      "icon": "github"
+    }
+  ]
+}

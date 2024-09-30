@@ -1,0 +1,32 @@
+{
+  "intro": {
+    "start": "const Emmanuel = ( name, passion ) =>",
+    "end": "Hello, my name is",
+    "speed": 100,
+    "deletionSpeed": 80,
+    "wrapper": "h2",
+    "startDelay": 1000,
+    "deleteDelay": 3000,
+    "restartDelay": 12000
+  },
+
+  "header": {
+    "name": "Emmanuel Okeowo.",
+    "usp": "A Full-stack Developer (Web & Mobile)."
+  },
+
+  "paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+
+  "buttons": {
+    "primary": {
+      "title": "Resume",
+      "url": "",
+      "leaveSite": false
+    },
+    "secondary": {
+      "title": "LinkedIn",
+      "url": "www.linkedin.com/in/emmanuel-o-aaaaaa296",
+      "leaveSite": "true"
+    }
+  }
+}

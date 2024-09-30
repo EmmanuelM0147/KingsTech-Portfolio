@@ -1,0 +1,52 @@
+[
+	{
+		"project": "Kicksciti.",
+		"url": "https://kicksciti.com",
+		"repo": "Private",
+		"descriptionTitle": "A mobile Ecommerce app for buying shoes",
+		"description": "Immerse yourself in a world where style meets technology. Discover & shop.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "NextJs", 			"type": "devicon" },
+			{ "key": "vercel", 		"name": "Vercel", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "framer-motion", "name": "Framer", 	"type": "devicon" },
+			{ "key": "tailwind",		"name": "TailwindCSS", 		"type": "devicon" },
+			{ "key": "reactnative",		"name": "React Native", 		"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "amazon",		"name": "aws", 	"type": "devicon" },
+			{ "key": "appstore",		"name": "App Store", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "Hallabet",
+		"url": "https://hallabet.com",
+		"repo": "Private",
+		"descriptionTitle": "Best Betting platform",
+		"description": "Best Odds, Instant deposits, Withdrawal & Bonuses.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "500",  "url": "/img/hallabet.png" }
+			
+		],
+		"stack": [
+			{ "key": "javascript", 		"name": "JavaScript", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "sql", 	"name": "SQL", 		"type": "devicon" },
+			{ "key": "spring", 	"name": "SpringBoot", 	"type": "devicon" },
+			{ "key": "java", 	"name": "Java", 	"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	}
+]
