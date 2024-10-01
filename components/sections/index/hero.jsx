@@ -73,7 +73,7 @@ export default function Hero() {
           </p>
         </section>
         <section>
-          <a href="/img/resume.pdf" download="resume.pdf">
+          <a href="/img/resume6.pdf" download="resume.pdf">
             <button className={`button ${button.primary}`}>
               {content.buttons.primary.title}
             </button>
