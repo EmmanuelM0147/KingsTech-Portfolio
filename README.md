@@ -1,6 +1,6 @@
-# KingsTech Portfolio
+# Portfolio
 
-Welcome to the KingsTech Portfolio repository! This project showcases a personal portfolio website designed to highlight projects, skills, and professional experiences in software development. It aims to provide potential clients, employers, and collaborators with an overview of the technical expertise and accomplishments of KingsTech.
+Welcome to my Portfolio repository! This project showcases a personal portfolio website designed to highlight projects, skills, and professional experiences in software development. It aims to provide potential clients, employers, and collaborators with an overview of my technical expertise and accomplishments.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,10 +12,10 @@ Welcome to the KingsTech Portfolio repository! This project showcases a personal
 - [License](#license)
 
 ## Overview
-The KingsTech Portfolio is a visually appealing and responsive web application that presents the developer's skills, projects, and contact information in an organized way. This project serves as a platform for personal branding and networking in the tech industry.
+This Portfolio is a visually appealing and responsive web application that presents my skills, projects, and contact information in an organized way. This project serves as a platform for personal branding and networking in the tech industry.
 
 ## Features
-- **Personal Introduction**: A short bio about KingsTech.
+- **Personal Introduction**: A short bio about Emmanuel Okeowo.
 - **Project Showcase**: Detailed descriptions of projects, including technologies used and links to source code or demos.
 - **Skills Overview**: Display of key technical skills.
 - **Contact Form**: A simple form allowing users to get in touch directly.
@@ -25,7 +25,7 @@ The KingsTech Portfolio is a visually appealing and responsive web application t
 - **Frontend**: HTML, CSS, JavaScript
 - **Framework**: React.js (optional if used)
 - **Styling**: CSS Modules or TailwindCSS (if applicable)
-- **Deployment**: Hosted on a platform like Netlify or GitHub Pages
+- **Deployment**: Hosted on vercel
 
 ## Installation
 To run the portfolio locally, follow these steps:
