@@ -30,7 +30,7 @@ export default function About() {
 				<SectionTitle
 					title="About Me"
 					preTitle="Synopsis"
-					subTitle="With a diverse skill set that includes full stack development, Mobile App Developement, No-code Development, UI/UX and graphics.,  I am a well-rounded digital professional."
+					subTitle="Full-stack Developer specializing in scalable web and mobile solutions using both client-side and server-side JavaScript. I'm currently expanding my skills with TypeScript, and I pride myself on being a well-rounded digital professional."
 				/> 
 				<section className={about.content}>
 					<div className={about.image}>
@@ -39,11 +39,11 @@ export default function About() {
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
-							title="Softskills that pay the bills"
+							title="Core Soft Skills for Success"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, mentor, and role model. Outside of work, I enjoy playing soccer, playing video games and watching comdey skits. I am confident in my ability to bring passion and value to any project."
+							copy="I bring a diverse set of soft skills to every project, including conflict management, critical thinking, and cultural adaptability. With strong emotional intelligence, I navigate challenging situations with empathy and clarity. I excel in transforming ideas into business opportunities and enhancing personal branding and effectiveness. Additionally, my experience in sales and negotiations ensures effective communication and value-driven outcomes."
 						/>
 						<BadgesBlock 
 							title="Reasearch and planning" 
