@@ -42,6 +42,14 @@ export default function MyApp({ Component, pageProps }) {
                 data-x_margin="18"
                 data-y_margin="18"
                 strategy="lazyOnload" // Load script lazily
+                onLoad={() => {
+                    const bmcWidget = document.querySelector("[data-name='BMC-Widget']");
+                    if (bmcWidget) {
+                        bmcWidget.style.position = 'fixed';
+                        bmcWidget.style.bottom = '20px';
+                        bmcWidget.style.right = '20px';
+                    }
+                }}
             />
         </>
     )
