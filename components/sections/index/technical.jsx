@@ -28,8 +28,8 @@ export default function Technical() {
 		<Section classProp={`${about.section} borderBottom`}>	
 			<Container spacing={['verticalXXXLrg']}>
 				<SectionTitle
-					title="Technical"
-					preTitle="Hardskills"
+					title="Technical Expertise"
+					preTitle="Specialized Skills"
 					subTitle="As a creative technologist, I craft intuitive digital experiences using a diverse set of tools and languages."
 				/>
 				<section className={`${about.content} ${about.container}`}>
@@ -43,7 +43,7 @@ export default function Technical() {
 						/>
 						<BadgesBlock 
 							title="Software/Tools I love to work with" 
-							copy="With over 4 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
+							copy="With over 2 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
@@ -90,7 +90,6 @@ const tech	= [
 	{ key: 'react', 		name: 'React', 				type: 'devicon' },
 	{ key: 'nextjs', 		name: 'NextJS', 			type: 'devicon' },
 	{ key: 'typescript', 	name: 'Typescript', 			type: 'devicon' },
-	{ key: 'flutter', 		name: 'Flutter', 				type: 'devicon' },
 	{ key: 'wordpress', 	name: 'WordPress', 			type: 'devicon' },
 	{ key: 'woocommerce', 	name: 'WooCommerce', 		type: 'devicon' },
 	{ key: "tailwind",		name: "TailwindCSS", 			type: "devicon" },

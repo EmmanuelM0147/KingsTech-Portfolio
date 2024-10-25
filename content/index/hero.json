@@ -14,14 +14,13 @@
     "name": "Emmanuel Okeowo.",
     "usp": "A Full-stack Developer."
   },
-
-  "paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+  "paragraph": "Crafting impactful web and mobile solutions with a passion for continuous learning and innovation.",
 
   "buttons": {
     "primary": {
       "title": "Resume",
-      "url": "",
-      "leaveSite": false
+      "url": "https://docs.google.com/document/d/11fGRDA_xw4Cl_weUMjAJx300lCisp2n9n-41QUVu9OQ/edit?usp=sharing",
+      "leaveSite": "true"
     },
     "secondary": {
       "title": "LinkedIn",
