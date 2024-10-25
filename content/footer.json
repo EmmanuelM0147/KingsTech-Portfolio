@@ -23,20 +23,35 @@
     {
       "person": "Foodios - Food website",
       "link": "https://foodios.vercel.app",
-      "note": "Food vendoing website"
+      "note": "Food vending website"
     }
   ],
 
   "links": [
     {
-      "person": "Upskill courses",
-      "link": "https://upskillcourses.com",
-      "note": "Best in class creative assets."
+      "person": "Coursera Certificate 1",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/CSEYMHKSTN5G",
+      "note": "Certificate for relevant Coursera course."
     },
     {
-      "person": "codewithmosh",
-      "link": "https://codewithmosh.com",
-      "note": "Best in class creative assets."
+      "person": "Coursera Certificate 2",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/ZGJBSWP2AJ37",
+      "note": "Certificate for relevant Coursera course."
+    },
+    {
+      "person": "Coursera Certificate 3",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/E6T99RYS9MW6",
+      "note": "Certificate for relevant Coursera course."
+    },
+    {
+      "person": "Coursera Certificate 4",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/GQFZZJUFZKJE",
+      "note": "Certificate for relevant Coursera course."
+    },
+    {
+      "person": "ALX SWE Certificate",
+      "link": "https://intranet.alxswe.com/certificates/Zxc5XSsETH",
+      "note": "Certificate from ALX SWE program."
     }
   ],
 
