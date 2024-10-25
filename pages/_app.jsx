@@ -4,7 +4,6 @@ import Head from 'next/head';
 import Script from 'next/script';
 import SetGridGap from '../components/utils/set.grid.util'
 import Layout from '../components/layout/layout'
-import Footer from '../components/footer/footer'; // Import Footer component
 import "../node_modules/the-new-css-reset/css/reset.css"
 import "@fontsource/fira-code/400.css"
 import "@fontsource/fira-code/600.css"
@@ -26,7 +25,6 @@ export default function MyApp({ Component, pageProps }) {
                     <Component {...pageProps} />
                     <SetGridGap />
                     <Analytics />
-                    <Footer />
                 </Layout>
             </LazyMotion>
             <Script
