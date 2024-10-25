@@ -19,20 +19,34 @@ export default function MyApp({ Component, pageProps }) {
         <>
             <Head>
                 <title>My App</title>
-                <script
-					data-name="BMC-Widget"
-					data-cfasync="false"
-					src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-					data-id="emmanuelokeowo"
-					data-description="Support me on Buy me a coffee!"
-					data-message=""
-					data-color="#87CEEB"
-					data-position="Right"
-					data-x_margin="18"
-					data-y_margin="18"
-				></script>
             </Head>
-            
+            <Script
+                id="buy-me-a-coffee-script"
+                src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+                data-name="BMC-Widget"
+                data-cfasync="false"
+                data-id="emmanuelokeowo"
+                data-description="Support me on Buy me a coffee!"
+                data-message=""
+                data-color="#87CEEB"
+                data-position="Right"
+                data-x_margin="18"
+                data-y_margin="18"
+                onLoad={() => {
+                    const bmcScript = document.createElement('script');
+                    bmcScript.src = 'https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js';
+                    bmcScript.setAttribute('data-name', 'BMC-Widget');
+                    bmcScript.setAttribute('data-id', 'emmanuelokeowo');
+                    bmcScript.setAttribute('data-description', 'Support me on Buy me a coffee!');
+                    bmcScript.setAttribute('data-message', '');
+                    bmcScript.setAttribute('data-color', '#87CEEB');
+                    bmcScript.setAttribute('data-position', 'Right');
+                    bmcScript.setAttribute('data-x_margin', '18');
+                    bmcScript.setAttribute('data-y_margin', '18');
+                    document.body.appendChild(bmcScript);
+                }}
+                strategy="lazyOnload" // Load script lazily
+            />
             <LazyMotion features={domAnimation}>
                 <Layout>
                     <Component {...pageProps} />
